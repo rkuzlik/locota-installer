@@ -5,7 +5,7 @@
     "platforms": {
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHRLWnQ1YjdPTG1VVlFNMDJvS0tDRU5UTk96TXlCVE0vZ0tRdXh2cTA0cG55Ym0wNDRaUnJCT2EzNVNBaXRyUStiOExZd202SDRjc0ZXeGhOSUpzbEZjUStPZ2paVUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg5NjY1Njg2CWZpbGU6TG9jb3RhXzEuMi40X3g2NF9lbi1VUy5tc2kuemlwCm9BeHdZMlV2YU11UmVSQmtFckR0VElGSVcyUGJnWWV2eEdNTHU0UjZnSDRhUW92dk1XRjZocEJaVUk4Y0Vlalo4NjRSTkdGT2FzN21oR3YwUVIvdkFnPT0K",
-            "url": "https://raw.githubusercontent.com/rkuzlik/locota-installer/main/prod/Locota.msi.zip"
+            "url": "https://raw.githubusercontent.com/rkuzlik/locota-installer/main/Locota.msi.zip"
         }
     }
 }
