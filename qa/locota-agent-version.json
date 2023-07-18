@@ -1,0 +1,11 @@
+{
+    "version": "1.2.1",
+    "notes": "Version: 1.2.1",
+    "pub_date": "2023-07-18T07:05:46Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHRLWnQ1YjdPTGp0dXliSDV2YlJOc3JoN3NSdnQ5cVAxT2czL0F4U3F4YWs5SnhNajIxeFU0b0ttS2h1WE9uRjhSck5hTnptMkR0NXlxdHpPUGpNdUt5LzRmRG1lWUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg5NjYzOTQzCWZpbGU6TG9jb3RhQWdlbnRfMS4yLjFfeDY0X2VuLVVTLm1zaS56aXAKcE96OG1MYlhXenBiWTAwZ1N1MVFkQ1dCLzBrdUNwQ2JhUHJkVUVJZi8wcmF5THBzWnh6NE9mMjhMMnU1WTl5REhnUDIwdXQyVmxUckE4NFR4alc4Q3c9PQo=",
+            "url": "https://raw.githubusercontent.com/rkuzlik/locota-installer/qa/LocotaAgent.msi.zip"
+        }
+    }
+}
