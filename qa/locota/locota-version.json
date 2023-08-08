@@ -1,10 +1,10 @@
 {
-    "version": "1.2.12",
-    "notes": "Version: 1.2.12",
-    "pub_date": "2023-08-08T06:23:03Z",
+    "version": "1.2.13",
+    "notes": "Version: 1.2.13",
+    "pub_date": "2023-08-08T06:40:13Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHRLWnQ1YjdPTG9iOTdMbElGTjZRdkdLOFpBY05lWUU4S2dleEdOb3EwZ1VIUWVPM0d2STFYdVJ1RlQ5L3VJNENSb21FSlhuN2RqRzRkNEMxeC9tZVJFUHB4VWhMQ3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxNDc1NzgwCWZpbGU6U2NyaXB0QnVpbGRlcl8xLjIuMTJfeDY0X2VuLVVTLm1zaS56aXAKQ2dBRm9lZUwwazVpWDJXOExzU1NsOVJXWFZ2ZURhbFNSNnhFMHU3QUV4ZnVYUjROVHNQTllJVWdzOWJHeEFXQU50OHhVOGIzRGgvdk1KNGN1aG91QWc9PQo=",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHRLWnQ1YjdPTG5kNXg0bTEvM0gvdWhhd0VOaXcvZ01TV3VwRmQ5Z21LbFZLc24zVWt5R0xXSjgrN3FUcHRKTnZvYXVsb3Zvam5DM2g1aVRhUjNBRWZvVWx0NTB1cndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxNDc2ODExCWZpbGU6U2NyaXB0QnVpbGRlcl8xLjIuMTNfeDY0X2VuLVVTLm1zaS56aXAKZTdLVFJqZE5zb05HZGorYUkzbmtPSXJ5YlNqc2syUnR5L05lOVFLYVNvNDlNcGZiWkYyUHJ0U1RWRU9yamNmOGJUa0JQek9VQWZNODJXendZbmFnQlE9PQo=",
             "url": "https://raw.githubusercontent.com/rkuzlik/locota-installer/main/qa/locota/Locota.msi.zip"
         }
     }
